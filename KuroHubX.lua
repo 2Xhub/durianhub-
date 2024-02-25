@@ -5343,7 +5343,6 @@ spawn(function()
         end
     end
 end)
-
 local CamShake = require(game.ReplicatedStorage.Util.CameraShaker)
 CamShake:Stop()
     
